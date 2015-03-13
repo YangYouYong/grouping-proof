@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 73
+.deps
+CMakeFiles
+CMakeLists.txt
+Makefile
+Makefile.in
+cmake_install.cmake
+
+END

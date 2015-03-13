@@ -1,0 +1,43 @@
+K 10
+svn:ignore
+V 353
+autom4te.cache
+CMakeCache.txt
+CMakeFiles
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Doxyfile
+Doxygen.log
+Makefile
+Makefile.in
+aclocal.m4
+build-stamp
+cmake_install.cmake
+config.guess
+config.h
+config.h.in
+config.log
+config.status
+config.sub
+configure
+depcomp
+install_manifest.txt
+libnfc.pc
+libtool
+ltmain.sh
+stamp-h1
+INSTALL
+libnfc.tag
+missing
+install-sh
+
+
+K 13
+svn:mergeinfo
+V 193
+/branches/less-strange-types:727-745
+/branches/libnfc-1.4:906,912
+/branches/libnfc-error-handling:470-569
+/branches/libnfc-less-bitutils-more-ponies:381-407
+/branches/libnfc-mingw-cross:806-825
+END

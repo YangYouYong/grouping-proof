@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/931/trunk/m4
+END
+libnfc_check_pcsc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/826/trunk/m4/libnfc_check_pcsc.m4
+END
+readline.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/663/trunk/m4/readline.m4
+END
+libnfc_check_libusb.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/866/trunk/m4/libnfc_check_libusb.m4
+END
+libnfc_drivers.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/931/trunk/m4/libnfc_drivers.m4
+END

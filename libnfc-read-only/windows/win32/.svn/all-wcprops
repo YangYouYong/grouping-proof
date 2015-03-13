@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/798/trunk/windows/win32
+END
+nfc-anticol.rc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/798/trunk/windows/win32/nfc-anticol.rc
+END
+nfc-list.rc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/798/trunk/windows/win32/nfc-list.rc
+END
+nfcip-initiator.rc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/798/trunk/windows/win32/nfcip-initiator.rc
+END
+nfc-relay.rc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/798/trunk/windows/win32/nfc-relay.rc
+END
+nfc-emulate.rc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/798/trunk/windows/win32/nfc-emulate.rc
+END
+nfc.def
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/606/trunk/windows/win32/nfc.def
+END
+nfcip-target.rc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/798/trunk/windows/win32/nfcip-target.rc
+END
+nfc-mfultralight.rc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/798/trunk/windows/win32/nfc-mfultralight.rc
+END
+nfc.rc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/798/trunk/windows/win32/nfc.rc
+END
+nfc-mfclassic.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/798/trunk/windows/win32/nfc-mfclassic.rc
+END
+nfc-poll.rc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/798/trunk/windows/win32/nfc-poll.rc
+END

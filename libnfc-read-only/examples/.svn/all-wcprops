@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1101/trunk/examples
+END
+nfc-relay.1
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/703/trunk/examples/nfc-relay.1
+END
+nfc-emulate-forum-tag4.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/959/trunk/examples/nfc-emulate-forum-tag4.1
+END
+pn53x-tamashell.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/992/trunk/examples/pn53x-tamashell.1
+END
+nfc-utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1085/trunk/examples/nfc-utils.c
+END
+nfc-mfclassic.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1097/trunk/examples/nfc-mfclassic.c
+END
+nfc-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1073/trunk/examples/nfc-utils.h
+END
+nfc-emulate-tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1096/trunk/examples/nfc-emulate-tag.c
+END
+nfc-poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1096/trunk/examples/nfc-poll.c
+END
+nfc-relay-picc.1
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/750/trunk/examples/nfc-relay-picc.1
+END
+nfc-anticol.1
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/702/trunk/examples/nfc-anticol.1
+END
+nfc-dep-initiator.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1029/trunk/examples/nfc-dep-initiator.c
+END
+nfc-emulate-uid.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1037/trunk/examples/nfc-emulate-uid.c
+END
+nfc-mfclassic.1
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/703/trunk/examples/nfc-mfclassic.1
+END
+nfc-emulate-tag.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/774/trunk/examples/nfc-emulate-tag.1
+END
+nfc-poll.1
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/777/trunk/examples/nfc-poll.1
+END
+nfc-dep-initiator.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/777/trunk/examples/nfc-dep-initiator.1
+END
+pn53x-sam.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1096/trunk/examples/pn53x-sam.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1003/trunk/examples/CMakeLists.txt
+END
+nfc-emulate-uid.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/774/trunk/examples/nfc-emulate-uid.1
+END
+nfc-dep-target.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1029/trunk/examples/nfc-dep-target.c
+END
+mifare.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/909/trunk/examples/mifare.c
+END
+pn53x-diagnose.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1101/trunk/examples/pn53x-diagnose.c
+END
+nfc-mfultralight.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1032/trunk/examples/nfc-mfultralight.c
+END
+mifare.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/831/trunk/examples/mifare.h
+END
+pn53x-sam.1
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/749/trunk/examples/pn53x-sam.1
+END
+nfc-dep-target.1
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/777/trunk/examples/nfc-dep-target.1
+END
+nfc-list.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1096/trunk/examples/nfc-list.c
+END
+nfc-relay.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1096/trunk/examples/nfc-relay.c
+END
+pn53x-diagnose.1
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/703/trunk/examples/pn53x-diagnose.1
+END
+nfc-emulate-forum-tag4.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1091/trunk/examples/nfc-emulate-forum-tag4.c
+END
+nfc-mfultralight.1
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/703/trunk/examples/nfc-mfultralight.1
+END
+pn53x-tamashell.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/992/trunk/examples/pn53x-tamashell.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/982/trunk/examples/Makefile.am
+END
+nfc-relay-picc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1096/trunk/examples/nfc-relay-picc.c
+END
+nfc-anticol.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1100/trunk/examples/nfc-anticol.c
+END
+nfc-list.1
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/778/trunk/examples/nfc-list.1
+END

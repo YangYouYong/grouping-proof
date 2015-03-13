@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/833/trunk/libfreefare/libfreefare
+END
+freefare.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/399/trunk/libfreefare/libfreefare/freefare.3
+END
+mifare_desfire_aid.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/631/trunk/libfreefare/libfreefare/mifare_desfire_aid.3
+END
+mad.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/713/trunk/libfreefare/libfreefare/mad.c
+END
+mifare_ultralight.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/778/trunk/libfreefare/libfreefare/mifare_ultralight.c
+END
+mifare_desfire_crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/833/trunk/libfreefare/libfreefare/mifare_desfire_crypto.c
+END
+mifare_classic.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/756/trunk/libfreefare/libfreefare/mifare_classic.c
+END
+mifare_desfire.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/788/trunk/libfreefare/libfreefare/mifare_desfire.c
+END
+tlv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/577/trunk/libfreefare/libfreefare/tlv.c
+END
+mifare_application.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/535/trunk/libfreefare/libfreefare/mifare_application.3
+END
+freefare_error.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/758/trunk/libfreefare/libfreefare/freefare_error.3
+END
+mifare_desfire_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/709/trunk/libfreefare/libfreefare/mifare_desfire_key.c
+END
+mifare_desfire_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/758/trunk/libfreefare/libfreefare/mifare_desfire_error.c
+END
+freefare.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/744/trunk/libfreefare/libfreefare/freefare.c
+END
+freefare_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/743/trunk/libfreefare/libfreefare/freefare_internal.h
+END
+mifare_desfire_aid.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/631/trunk/libfreefare/libfreefare/mifare_desfire_aid.c
+END
+mad.3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/535/trunk/libfreefare/libfreefare/mad.3
+END
+mifare_ultralight.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/495/trunk/libfreefare/libfreefare/mifare_ultralight.3
+END
+mifare_classic.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/491/trunk/libfreefare/libfreefare/mifare_classic.3
+END
+mifare_desfire.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/771/trunk/libfreefare/libfreefare/mifare_desfire.3
+END
+freefare.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/771/trunk/libfreefare/libfreefare/freefare.h
+END
+tlv.3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/366/trunk/libfreefare/libfreefare/tlv.3
+END
+mifare_application.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/535/trunk/libfreefare/libfreefare/mifare_application.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/758/trunk/libfreefare/libfreefare/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/833/trunk/libfreefare/libfreefare/CMakeLists.txt
+END
+mifare_desfire_key.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/730/trunk/libfreefare/libfreefare/mifare_desfire_key.3
+END

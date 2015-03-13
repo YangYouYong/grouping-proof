@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/818/trunk/libfreefare/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/818/trunk/libfreefare/debian/control
+END
+libfreefare-bin.install
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/807/trunk/libfreefare/debian/libfreefare-bin.install
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/807/trunk/libfreefare/debian/compat
+END
+watch
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/818/trunk/libfreefare/debian/watch
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/807/trunk/libfreefare/debian/changelog
+END
+libfreefare-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/807/trunk/libfreefare/debian/libfreefare-dev.install
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/807/trunk/libfreefare/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/807/trunk/libfreefare/debian/rules
+END
+libfreefare0.install
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/807/trunk/libfreefare/debian/libfreefare0.install
+END
+README.source
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/807/trunk/libfreefare/debian/README.source
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/807/trunk/libfreefare/debian/README.Debian
+END
+libfreefare-doc.install
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/807/trunk/libfreefare/debian/libfreefare-doc.install
+END

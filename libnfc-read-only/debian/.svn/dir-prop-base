@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 407
+autoreconf.*
+files
+libnfc-bin
+libnfc-bin.debhelper.log
+libnfc-bin.substvars
+libnfc-dev
+libnfc-dev.debhelper.log
+libnfc-dev.substvars
+libnfc-examples
+libnfc-examples.debhelper.log
+libnfc-examples.substvars
+libnfc-pn53x-examples
+libnfc-pn53x-examples.debhelper.log
+libnfc-pn53x-examples.substvars
+libnfc2
+libnfc2.debhelper.log
+libnfc2.postinst.debhelper
+libnfc2.postrm.debhelper
+libnfc2.substvars
+patches
+tmp
+
+END

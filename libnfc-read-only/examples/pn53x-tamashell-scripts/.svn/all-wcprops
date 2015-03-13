@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1026/trunk/examples/pn53x-tamashell-scripts
+END
+ASK_LoGO_LEDs.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/993/trunk/examples/pn53x-tamashell-scripts/ASK_LoGO_LEDs.cmd
+END
+UltraLightReadWrite.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/664/trunk/examples/pn53x-tamashell-scripts/UltraLightReadWrite.cmd
+END
+ReadNavigo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1026/trunk/examples/pn53x-tamashell-scripts/ReadNavigo.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/995/trunk/examples/pn53x-tamashell-scripts/Makefile.am
+END
+UltraLightRead.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/664/trunk/examples/pn53x-tamashell-scripts/UltraLightRead.cmd
+END
+ReadMobib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/996/trunk/examples/pn53x-tamashell-scripts/ReadMobib.sh
+END

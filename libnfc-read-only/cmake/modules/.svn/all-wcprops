@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1104/trunk/cmake/modules
+END
+FindLIBUSB.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1104/trunk/cmake/modules/FindLIBUSB.cmake
+END
+FindPCSC.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/969/trunk/cmake/modules/FindPCSC.cmake
+END
+UseDoxygen.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/969/trunk/cmake/modules/UseDoxygen.cmake
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/969/trunk/cmake/modules/Makefile.am
+END
+COPYING-CMAKE-SCRIPTS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/969/trunk/cmake/modules/COPYING-CMAKE-SCRIPTS
+END
+LibnfcDrivers.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/969/trunk/cmake/modules/LibnfcDrivers.cmake
+END

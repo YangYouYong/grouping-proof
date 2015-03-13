@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/633/branches/libfreefare-ultralight
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/632/branches/libfreefare-ultralight/configure.ac
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/632/branches/libfreefare-ultralight/HACKING
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/632/branches/libfreefare-ultralight/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/632/branches/libfreefare-ultralight/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/632/branches/libfreefare-ultralight/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/632/branches/libfreefare-ultralight/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/632/branches/libfreefare-ultralight/Makefile.am
+END
+libfreefare.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/632/branches/libfreefare-ultralight/libfreefare.pc.in
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/632/branches/libfreefare-ultralight/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/632/branches/libfreefare-ultralight/README
+END

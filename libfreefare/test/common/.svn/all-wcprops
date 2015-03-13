@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/772/trunk/libfreefare/test/common
+END
+mifare_desfire_auto_authenticate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/709/trunk/libfreefare/test/common/mifare_desfire_auto_authenticate.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/772/trunk/libfreefare/test/common/Makefile.am
+END
+mifare_desfire_auto_authenticate.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/709/trunk/libfreefare/test/common/mifare_desfire_auto_authenticate.c
+END

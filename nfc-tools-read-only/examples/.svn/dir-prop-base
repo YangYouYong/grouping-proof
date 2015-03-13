@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 179
+.deps
+Makefile
+Makefile.in
+mifare-classic-format
+mifare-classic-write-ndef
+mifare-desfire-access
+mifare-desfire-format
+mifare-desfire-info
+mifare-desfire-write-ndef
+*.gcda
+*.gcno
+
+END

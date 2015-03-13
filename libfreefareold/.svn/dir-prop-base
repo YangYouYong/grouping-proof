@@ -1,0 +1,33 @@
+K 10
+svn:ignore
+V 246
+.deps
+INSTALL
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+autoscan.log
+config.guess
+config.h
+config.h.in
+config.log
+config.status
+config.sub
+configure
+coverage
+coverage.info
+depcomp
+install-sh
+libfreefare.pc
+libtool
+ltmain.sh
+missing
+stamp-h1
+
+K 13
+svn:mergeinfo
+V 74
+/branches/libfreefare-desfire:197-494
+/branches/libfreefare-ultralight:633
+END

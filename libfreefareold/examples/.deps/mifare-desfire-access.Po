@@ -1,0 +1,152 @@
+mifare-desfire-access.o: mifare-desfire-access.c /usr/include/err.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdarg.h \
+ /usr/include/errno.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/include/math.h /usr/include/bits/huge_val.h \
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+ /usr/include/bits/inf.h /usr/include/bits/nan.h \
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+ /usr/include/bits/mathinline.h /usr/include/stdlib.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stddef.h \
+ /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/nfc/nfc.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdbool.h \
+ /usr/include/nfc/nfc-types.h /usr/include/stdio.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h ../libfreefare/freefare.h \
+ /usr/include/sys/types.h /usr/include/time.h /usr/include/openssl/des.h \
+ /usr/include/openssl/e_os2.h /usr/include/openssl/opensslconf.h \
+ /usr/include/openssl/opensslconf-x86_64.h /usr/include/openssl/des_old.h \
+ /usr/include/openssl/symhacks.h /usr/include/openssl/ui_compat.h \
+ /usr/include/openssl/ui.h /usr/include/openssl/crypto.h \
+ /usr/include/openssl/stack.h /usr/include/openssl/safestack.h \
+ /usr/include/openssl/opensslv.h /usr/include/openssl/ossl_typ.h
+
+/usr/include/err.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdarg.h:
+
+/usr/include/errno.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+/usr/include/stdlib.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stddef.h:
+
+/usr/include/string.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/nfc/nfc.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdbool.h:
+
+/usr/include/nfc/nfc-types.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+../libfreefare/freefare.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/openssl/des.h:
+
+/usr/include/openssl/e_os2.h:
+
+/usr/include/openssl/opensslconf.h:
+
+/usr/include/openssl/opensslconf-x86_64.h:
+
+/usr/include/openssl/des_old.h:
+
+/usr/include/openssl/symhacks.h:
+
+/usr/include/openssl/ui_compat.h:
+
+/usr/include/openssl/ui.h:
+
+/usr/include/openssl/crypto.h:
+
+/usr/include/openssl/stack.h:
+
+/usr/include/openssl/safestack.h:
+
+/usr/include/openssl/opensslv.h:
+
+/usr/include/openssl/ossl_typ.h:

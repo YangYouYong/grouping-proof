@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1073/trunk/include/nfc
+END
+nfc-emulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/985/trunk/include/nfc/nfc-emulation.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/960/trunk/include/nfc/Makefile.am
+END
+nfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1072/trunk/include/nfc/nfc.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/340/trunk/include/nfc/CMakeLists.txt
+END
+nfc-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1073/trunk/include/nfc/nfc-types.h
+END

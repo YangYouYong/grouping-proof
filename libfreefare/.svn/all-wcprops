@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/833/trunk/libfreefare
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/794/trunk/libfreefare/configure.ac
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/707/trunk/libfreefare/HACKING
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/495/trunk/libfreefare/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/710/trunk/libfreefare/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/71/trunk/libfreefare/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/71/trunk/libfreefare/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/789/trunk/libfreefare/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/789/trunk/libfreefare/NEWS
+END
+libfreefare.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/73/trunk/libfreefare/libfreefare.pc.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/495/trunk/libfreefare/README
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/833/trunk/libfreefare/CMakeLists.txt
+END

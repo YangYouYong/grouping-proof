@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1094/trunk/libnfc/buses
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1094/trunk/libnfc/buses/uart.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/830/trunk/libnfc/buses/Makefile.am
+END
+uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/931/trunk/libnfc/buses/uart.c
+END
+uart_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1094/trunk/libnfc/buses/uart_win32.c
+END
+uart_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1094/trunk/libnfc/buses/uart_posix.c
+END

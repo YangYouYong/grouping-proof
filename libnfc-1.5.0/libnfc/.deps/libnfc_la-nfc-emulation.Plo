@@ -1,0 +1,65 @@
+libnfc_la-nfc-emulation.lo: nfc-emulation.c ../include/nfc/nfc.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdbool.h \
+ ../include/nfc/nfc-types.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stddef.h \
+ /usr/include/stdio.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ ../include/nfc/nfc-emulation.h /usr/include/sys/types.h \
+ /usr/include/time.h iso7816.h
+
+../include/nfc/nfc.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdbool.h:
+
+../include/nfc/nfc-types.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stddef.h:
+
+/usr/include/stdio.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+../include/nfc/nfc-emulation.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+iso7816.h:

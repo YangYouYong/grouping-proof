@@ -1,0 +1,73 @@
+pn53x-diagnose.o: pn53x-diagnose.c /usr/include/err.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdarg.h \
+ /usr/include/stdlib.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stddef.h \
+ /usr/include/string.h ../include/nfc/nfc.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdbool.h \
+ ../include/nfc/nfc-types.h /usr/include/stdio.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ nfc-utils.h ../libnfc/chips/pn53x.h ../libnfc/chips/pn53x-internal.h \
+ ../libnfc/chips/pn53x.h
+
+/usr/include/err.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdarg.h:
+
+/usr/include/stdlib.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stddef.h:
+
+/usr/include/string.h:
+
+../include/nfc/nfc.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.6.0/include/stdbool.h:
+
+../include/nfc/nfc-types.h:
+
+/usr/include/stdio.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+nfc-utils.h:
+
+../libnfc/chips/pn53x.h:
+
+../libnfc/chips/pn53x-internal.h:
+
+../libnfc/chips/pn53x.h:

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/1104/trunk/cmake
+END
+config_windows.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/969/trunk/cmake/config_windows.h.cmake
+END
+FixBundle.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1003/trunk/cmake/FixBundle.cmake.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/970/trunk/cmake/Makefile.am
+END
+config_posix.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/969/trunk/cmake/config_posix.h.cmake
+END

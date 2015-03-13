@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 351
+files
+libfreefare-bin
+libfreefare-bin.debhelper.log
+libfreefare-bin.substvars
+libfreefare-dev
+libfreefare-dev.debhelper.log
+libfreefare-dev.substvars
+libfreefare-doc
+libfreefare-doc.debhelper.log
+libfreefare-doc.substvars
+libfreefare0
+libfreefare0.debhelper.log
+libfreefare0.postinst.debhelper
+libfreefare0.postrm.debhelper
+libfreefare0.substvars
+tmp
+
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/1090/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1090/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/208/trunk/debian/compat
+END
+libnfc2.install
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1080/trunk/debian/libnfc2.install
+END
+watch
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1089/trunk/debian/watch
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1084/trunk/debian/changelog
+END
+libnfc-bin.install
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/801/trunk/debian/libnfc-bin.install
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1084/trunk/debian/copyright
+END
+libnfc-pn53x-examples.install
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/876/trunk/debian/libnfc-pn53x-examples.install
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1087/trunk/debian/rules
+END
+libnfc-examples.install
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/801/trunk/debian/libnfc-examples.install
+END
+libnfc-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/211/trunk/debian/libnfc-dev.install
+END

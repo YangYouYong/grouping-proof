@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/787/trunk/libfreefare/test
+END
+test_mifare_desfire_des.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/735/trunk/libfreefare/test/test_mifare_desfire_des.c
+END
+test_mad.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/195/trunk/libfreefare/test/test_mad.c
+END
+test_mifare_ultralight.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/743/trunk/libfreefare/test/test_mifare_ultralight.c
+END
+test_mifare_classic.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/689/trunk/libfreefare/test/test_mifare_classic.c
+END
+test_mifare_desfire.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/758/trunk/libfreefare/test/test_mifare_desfire.c
+END
+test_tlv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/567/trunk/libfreefare/test/test_tlv.c
+END
+test_mifare_desfire_ev1_aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/787/trunk/libfreefare/test/test_mifare_desfire_ev1_aes.c
+END
+mifare_ultralight_fixture.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/743/trunk/libfreefare/test/mifare_ultralight_fixture.c
+END
+run-test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/380/trunk/libfreefare/test/run-test.sh
+END
+mifare_classic_fixture.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/620/trunk/libfreefare/test/mifare_classic_fixture.c
+END
+mifare_desfire_fixture.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/620/trunk/libfreefare/test/mifare_desfire_fixture.c
+END
+test_mifare_desfire_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/495/trunk/libfreefare/test/test_mifare_desfire_key.c
+END
+mifare_ultralight_fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/165/trunk/libfreefare/test/mifare_ultralight_fixture.h
+END
+test_mifare_desfire_ev1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/732/trunk/libfreefare/test/test_mifare_desfire_ev1.c
+END
+mifare_classic_fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/165/trunk/libfreefare/test/mifare_classic_fixture.h
+END
+mifare_desfire_fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/495/trunk/libfreefare/test/mifare_desfire_fixture.h
+END
+test_mifare_desfire_aid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/631/trunk/libfreefare/test/test_mifare_desfire_aid.c
+END
+test_mifare_classic_create_trailer_block.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/163/trunk/libfreefare/test/test_mifare_classic_create_trailer_block.c
+END
+test_mifare_classic_mad.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/567/trunk/libfreefare/test/test_mifare_classic_mad.c
+END
+mifare_desfire_ev1_fixture.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/691/trunk/libfreefare/test/mifare_desfire_ev1_fixture.c
+END
+test_mifare_application.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/495/trunk/libfreefare/test/test_mifare_application.c
+END
+test_mifare_desfire_ev1_iso.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/771/trunk/libfreefare/test/test_mifare_desfire_ev1_iso.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/772/trunk/libfreefare/test/Makefile.am
+END
+test_mifare_desfire_ev1_3k3des.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/769/trunk/libfreefare/test/test_mifare_desfire_ev1_3k3des.c
+END
+mifare_desfire_ev1_fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/691/trunk/libfreefare/test/mifare_desfire_ev1_fixture.h
+END
+test_mifare_desfire_aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/731/trunk/libfreefare/test/test_mifare_desfire_aes.c
+END
+test_mifare_desfire_ev1_3des.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/732/trunk/libfreefare/test/test_mifare_desfire_ev1_3des.c
+END
+test_mifare_classic_sector_boundaries.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/406/trunk/libfreefare/test/test_mifare_classic_sector_boundaries.c
+END

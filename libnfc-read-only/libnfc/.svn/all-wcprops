@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/1104/trunk/libnfc
+END
+nfc-emulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1091/trunk/libnfc/nfc-emulation.c
+END
+nfc-device.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1093/trunk/libnfc/nfc-device.c
+END
+mirror-subr.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/608/trunk/libnfc/mirror-subr.c
+END
+drivers.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/931/trunk/libnfc/drivers.h
+END
+iso14443-subr.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/804/trunk/libnfc/iso14443-subr.c
+END
+nfc-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1072/trunk/libnfc/nfc-internal.h
+END
+iso7816.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/965/trunk/libnfc/iso7816.h
+END
+nfc.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1101/trunk/libnfc/nfc.c
+END
+mirror-subr.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/608/trunk/libnfc/mirror-subr.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1018/trunk/libnfc/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1003/trunk/libnfc/CMakeLists.txt
+END
+additional-pages.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/611/trunk/libnfc/additional-pages.dox
+END

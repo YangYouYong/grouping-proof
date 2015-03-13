@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/970/trunk/contrib/win32/sys
+END
+select.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/968/trunk/contrib/win32/sys/select.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/968/trunk/contrib/win32/sys/Makefile.am
+END

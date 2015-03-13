@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1103/trunk/libnfc/chips
+END
+pn53x.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1096/trunk/libnfc/chips/pn53x.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/908/trunk/libnfc/chips/Makefile.am
+END
+pn53x-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1103/trunk/libnfc/chips/pn53x-internal.h
+END
+pn53x.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1103/trunk/libnfc/chips/pn53x.c
+END

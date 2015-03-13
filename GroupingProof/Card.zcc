@@ -1,0 +1,9 @@
+[BasicCard]
+ConfigFile=C:\Program Files (x86)\BasicCard\Pro\ZC75.zcf
+
+[Compiler]
+SourceFile=C:\Users\XERXES\Documents\group\GroupingProof\card.bas
+
+[Card Reader]
+VirtualReader=201
+PhysicalReader=100

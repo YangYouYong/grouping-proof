@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/789/trunk/libfreefare/examples
+END
+mifare-desfire-ev1-configure-ats.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/741/trunk/libfreefare/examples/mifare-desfire-ev1-configure-ats.c
+END
+mifare-desfire-access.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/646/trunk/libfreefare/examples/mifare-desfire-access.c
+END
+mifare-desfire-ev1-configure-default-key.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/737/trunk/libfreefare/examples/mifare-desfire-ev1-configure-default-key.c
+END
+mifare-desfire-write-ndef.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/624/trunk/libfreefare/examples/mifare-desfire-write-ndef.c
+END
+mifare-classic-write-ndef.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/581/trunk/libfreefare/examples/mifare-classic-write-ndef.c
+END
+mifare-desfire-ev1-configure-random-uid.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/691/trunk/libfreefare/examples/mifare-desfire-ev1-configure-random-uid.c
+END
+mifare-desfire-format.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/613/trunk/libfreefare/examples/mifare-desfire-format.c
+END
+mifare-classic-format.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/568/trunk/libfreefare/examples/mifare-classic-format.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/739/trunk/libfreefare/examples/Makefile.am
+END
+mifare-desfire-info.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/751/trunk/libfreefare/examples/mifare-desfire-info.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/789/trunk/libfreefare/examples/CMakeLists.txt
+END

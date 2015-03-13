@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1104/trunk/libnfc/drivers
+END
+arygon.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1094/trunk/libnfc/drivers/arygon.c
+END
+acr122.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/938/trunk/libnfc/drivers/acr122.h
+END
+pn532_uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1094/trunk/libnfc/drivers/pn532_uart.c
+END
+arygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/929/trunk/libnfc/drivers/arygon.h
+END
+pn53x_usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1104/trunk/libnfc/drivers/pn53x_usb.c
+END
+pn532_uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/930/trunk/libnfc/drivers/pn532_uart.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/931/trunk/libnfc/drivers/Makefile.am
+END
+acr122.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1093/trunk/libnfc/drivers/acr122.c
+END
+pn53x_usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/942/trunk/libnfc/drivers/pn53x_usb.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/516/trunk/libfreefare/contrib/libutil
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/516/trunk/libfreefare/contrib/libutil/Makefile.am
+END
+libutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/516/trunk/libfreefare/contrib/libutil/libutil.h
+END
+hexdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/516/trunk/libfreefare/contrib/libutil/hexdump.c
+END

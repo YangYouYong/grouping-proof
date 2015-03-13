@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/1104/trunk
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/271/trunk/AUTHORS
+END
+make_release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/691/trunk/make_release.sh
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1018/trunk/ChangeLog
+END
+Doxyfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/347/trunk/Doxyfile.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/934/trunk/README
+END
+mingw-cross-configure.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/826/trunk/mingw-cross-configure.sh
+END
+pn53x.conf
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1099/trunk/pn53x.conf
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1071/trunk/configure.ac
+END
+libnfc.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/251/trunk/libnfc.pc.in
+END
+README-Windows.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1104/trunk/README-Windows.txt
+END
+pn53x.rules
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1098/trunk/pn53x.rules
+END
+manual-test-results.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1041/trunk/manual-test-results.txt
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/208/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1093/trunk/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/1018/trunk/NEWS
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1090/trunk/CMakeLists.txt
+END
